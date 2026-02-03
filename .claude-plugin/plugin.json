@@ -1,0 +1,7 @@
+{
+  "name": "brand-skills",
+  "description": "Strategic brand building skills for Claude Code. Includes tools for creating Brand DNA frameworks, guided brand workshops, and structured brand documentation.",
+  "skills": [
+    "./skills/brand-dna"
+  ]
+}
