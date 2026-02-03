@@ -4,13 +4,13 @@
     "name": "Brian Buschmann"
   },
   "metadata": {
-    "description": "Strategic brand building skills for Claude Code. Includes tools for creating Brand DNA frameworks, guided brand workshops, and structured brand documentation.",
-    "version": "1.0.0"
+    "description": "Strategic brand building skills for Claude Code. Create Brand DNA frameworks through guided workshops, audit existing brands, generate stakeholder presentations, voice samples, social media bios, and comprehensive brand books.",
+    "version": "2.0.0"
   },
   "plugins": [
     {
       "name": "brand-skills",
-      "description": "Brand DNA framework creation with guided workshop and direct creation modes.",
+      "description": "Brand DNA framework with 5 modes: guided workshop, direct creation, brand audit, voice samples, and competitive positioning. Outputs include presentations, executive summaries, PDF brand books, and social media bios.",
       "source": "./",
       "strict": false,
       "skills": [
