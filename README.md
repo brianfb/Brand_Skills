@@ -50,6 +50,9 @@ Or install from GitHub:
 /install-plugin https://github.com/brianbuschmann/Brand_Skills
 ```
 
+## How to use
+Once installed, you trigger it by typing /brand-dna in Claude Code, or by naturally asking something that matches the skill's trigger phrases like "help me figure out my brand" or "workshop my brand."
+
 ## Project Structure
 
 ```
